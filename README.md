@@ -1,3 +1,3 @@
 # DubSirenPrototype
 
-création d'un dub siren 
+création d'un dub siren application web puis physiquement 
